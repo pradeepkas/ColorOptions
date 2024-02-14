@@ -1,0 +1,22 @@
+{
+  "name": "ColorOptions",
+  "version": "0.1.0",
+  "summary": "A short description of ColorOptions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/17314355/ColorOptions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "17314355": "pradeepkas10@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/17314355/ColorOptions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ColorOptions/Classes/**/*"
+}

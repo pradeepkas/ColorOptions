@@ -1,0 +1,16 @@
+PODS:
+  - ColorOptions (0.1.0)
+
+DEPENDENCIES:
+  - ColorOptions (from `../`)
+
+EXTERNAL SOURCES:
+  ColorOptions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ColorOptions: 9cdbc48cb53f80ae951795485345dc802acc9ad6
+
+PODFILE CHECKSUM: 9d9065d53ed8538158042e7c8ec767d1d4761f19
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,6 @@
+framework module ColorOptions {
+  umbrella header "ColorOptions-umbrella.h"
+
+  export *
+  module * { export * }
+}
