@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ColorOptions'
-  s.version          = '0.1.0'
+  s.version          = '1.0'
   s.summary          = 'A short description of ColorOptions.'
 
 # This description is used to generate tags and improve search results.
@@ -24,13 +24,13 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/17314355/ColorOptions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '17314355' => 'pradeepkas10@gmail.com' }
-  s.source           = { :git => 'https://github.com/17314355/ColorOptions.git', :tag => s.version.to_s }
+  s.author           = { 'pradeepkas' => 'pradeepkas10@gmail.com' }
+  s.source           = { :git => 'https://github.com/pradeepkas/ColorOptions.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '12.0'
 
-  s.source_files = 'ColorOptions/Classes/**/*'
+  s.source_files = 'Pod/Classes/**/*'
   
   # s.resource_bundles = {
   #   'ColorOptions' => ['ColorOptions/Assets/*.png']
