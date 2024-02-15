@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/17314355/ColorOptions'
+  s.homepage         = 'https://github.com/pradeepkas/ColorOptions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'pradeepkas' => 'pradeepkas10@gmail.com' }
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'ColorOptions/Classes/**/*'
+  s.source_files = 'Classes/*.{h,m,swift}'
   
   # s.resource_bundles = {
   #   'ColorOptions' => ['ColorOptions/Assets/*.png']
